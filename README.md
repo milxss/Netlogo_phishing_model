@@ -1,6 +1,10 @@
 # Netlogo_phishing_model
 This is a simulation of phishing attack on an enterprise
 
+
+![ezgif-3-7aac5ea4d987](https://user-images.githubusercontent.com/42537931/121935705-05e2fa00-cd49-11eb-9260-54e88374ee02.gif)
+
+
 ## WHAT IS IT?
 
 This model is intended to represent a phishing attack on an enterprise/company. The goal of the model is to show importance of phishing awareness among employees. Model shows as well key players: hackers (red hats) who attack and infosec department (blue hats) who will defend. Almost always if one employee account is hacked = all the ecosystem is hacked as well.
